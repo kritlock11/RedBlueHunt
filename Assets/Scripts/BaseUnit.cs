@@ -29,6 +29,7 @@ public class BaseUnit : MonoBehaviour
             SetMaterialByType(_type);
         }
     }
+
     public float Speed
     {
         get => _speed;
